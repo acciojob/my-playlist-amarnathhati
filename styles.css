@@ -8,11 +8,15 @@ body{
        .player_one{
       background-color: white;
       padding: 10px;
-      text-decoration: none;
+      text-decoration-line:none;
        }
        h2{
         text-align: center;
        }
        .player_two{
+		   background-color:rgb(255, 255, 255);
         text-align: center;
        }
+li{
+	list-style-type:none;
+}
